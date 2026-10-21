@@ -1,0 +1,7 @@
+{
+  "name": "StudySaathi - AI Study Planner",
+  "description": "Smart, realistic AI study planner for college students with dark blue theme, English and Hinglish support, exam countdown, Pomodoro timer, and syllabus tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
